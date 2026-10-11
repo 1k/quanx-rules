@@ -1,0 +1,11 @@
+# 微信广告域名屏蔽（自维护）
+# 广点通（腾讯广告平台）
+host-suffix, gdt.qq.com, reject
+host-suffix, mi.gdt.qq.com, reject
+# 微信广告
+host, ad.weixin.qq.com, reject
+host, adslot.weixin.qq.com, reject
+host-suffix, adslot.weixin.qq.com, reject
+# 腾讯广告
+host, e.qq.com, reject
+host-suffix, wxa.wxs.qq.com, reject
