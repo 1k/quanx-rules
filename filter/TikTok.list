@@ -1,0 +1,14 @@
+# NAME: TikTok Rules
+# TikTok 专用分流（建议锁定美国节点，港节点不可用）
+
+# > TikTok
+USER-AGENT,TikTok*
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-KEYWORD,tiktokcdn-
