@@ -552,7 +552,7 @@ DOMAIN,news-client.apple.com
 DOMAIN,news-client-search.apple.com
 DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
-DOMAIN,apple.comscoreresearch.com
+DOMAIN,scoreresearch.com
 # ------
 # > Microsoft
 DOMAIN-SUFFIX,bing.com
