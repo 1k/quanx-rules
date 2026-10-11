@@ -306,9 +306,15 @@ DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN,youtubei.googleapis.com
+# YouTube 配套 API（避免被 AI 规则的 googleapis.com 截走）
+DOMAIN-SUFFIX,play.googleleapis.com
+DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
 DOMAIN,yt3.ggpht.com
 
 # > Instagram
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,cdninstagram.com
+# Instagram 配套 API（避免被 AI 规则的 facebook.com 截走）
+DOMAIN-SUFFIX,graph.facebook.com
+DOMAIN-SUFFIX,edge-mqtt.facebook.com
 DOMAIN-SUFFIX,fbcdn.net
