@@ -1,0 +1,20 @@
+# X (Twitter) 分流规则
+# 自维护，2026-10-11
+
+# 主域名
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,t.co
+
+# API 与 CDN
+DOMAIN-SUFFIX,api.x.com
+DOMAIN-SUFFIX,api.twitter.com
+DOMAIN-SUFFIX,abs.twimg.com
+DOMAIN-SUFFIX,pbs.twimg.com
+DOMAIN-SUFFIX,video.twimg.com
+DOMAIN-SUFFIX,ton.twimg.com
+
+# TweetDeck
+DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-SUFFIX,tweetdeck.twitter.com
