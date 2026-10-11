@@ -69,6 +69,7 @@ payload:
 
 # > Muse AI
   - DOMAIN-SUFFIX,muse.ai
+  - DOMAIN-SUFFIX,metaaivm.com
   - DOMAIN,production.museai.com
   - DOMAIN,connect.facebook.net
   - DOMAIN,meta-ohttp-config-prod.fastly-edge.com
