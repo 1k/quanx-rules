@@ -246,7 +246,7 @@ HOST,streamingaudio.itunes.apple.com,Apple
 HOST,gspe1-ssl.ls.apple.com,Apple
 HOST,news-client-search.apple.com,Apple
 HOST,api-glb-sea.smoot.apple.com,Apple
-HOST,apple.comscoreresearch.com,Apple
+HOST,scoreresearch.com,Apple
 HOST,books.itunes.apple.com,Apple
 HOST,cdn.apple-cloudkit.com,Apple
 HOST,cvws.icloud-content.com,Apple
@@ -1787,7 +1787,7 @@ HOST-SUFFIX,simplyipod.com,Apple
 HOST-SUFFIX,ukipad.com,Apple
 HOST-SUFFIX,wwwipodlounge.com,Apple
 HOST-SUFFIX,wwwmacbookair.com,Apple
-HOST-SUFFIX,apple.comscoreresearch.com,Apple
+HOST-SUFFIX,scoreresearch.com,Apple
 HOST-SUFFIX,apple.news,Apple
 HOST-SUFFIX,appleenews.com,Apple
 HOST-SUFFIX,applemusic.berlin,Apple
