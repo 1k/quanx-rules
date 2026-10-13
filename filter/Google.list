@@ -1,0 +1,12 @@
+# NAME: Google 服务
+# AUTHOR: Yin
+# REPO: https://github.com/1k/quanx-rules
+# UPDATED: 2026-10-14
+# Google 服务分流规则（OAuth、Play API 等），走谷歌服务策略组
+
+HOST-SUFFIX, oauthaccountmanager.googleapis.com, 谷歌服务
+HOST-SUFFIX, play.googleapis.com, 谷歌服务
+HOST-SUFFIX, accounts.google.com, 谷歌服务
+HOST-SUFFIX, myaccount.google.com, 谷歌服务
+HOST-SUFFIX, oauth2.googleapis.com, 谷歌服务
+HOST-SUFFIX, www.googleapis.com, 谷歌服务
