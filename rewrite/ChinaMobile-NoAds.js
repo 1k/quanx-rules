@@ -1,8 +1,6 @@
 /******************************************
  * @name 广告移不动
  * @description 去除肉眼可见的广告
- * @channel https://t.me/yqc_123
- * @feedback https://t.me/lanjieguanggao
  * @version 1.0.0
 ******************************************
 脚本声明:
