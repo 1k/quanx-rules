@@ -9,7 +9,7 @@
 
 [rewrite_local]
 
-^https?:\/\/ad\.12306\.cn\/ad\/ser\/getAdList url script-analyze-echo-response https://github.com/ddgksf2013/Scripts/raw/master/12306.js
+^https?:\/\/ad\.12306\.cn\/ad\/ser\/getAdList url script-analyze-echo-response https://raw.githubusercontent.com/1k/quanx-rules/main/rewrite/12306.js
 
 [mitm]
 
