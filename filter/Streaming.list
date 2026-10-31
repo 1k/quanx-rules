@@ -307,7 +307,6 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN,youtubei.googleapis.com
 # YouTube 配套 API（避免被 AI 规则的 googleapis.com 截走）
-DOMAIN-SUFFIX,play.googleleapis.com
 DOMAIN,yt3.ggpht.com
 
 # > Instagram
