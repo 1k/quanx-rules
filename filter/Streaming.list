@@ -312,7 +312,6 @@ DOMAIN,yt3.ggpht.com
 # > Instagram
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,cdninstagram.com
-# Instagram 配套 API（避免被 AI 规则的 facebook.com 截走）
-DOMAIN-SUFFIX,graph.facebook.com
+# Instagram 推送长连接（edge-mqtt）
 DOMAIN-SUFFIX,edge-mqtt.facebook.com
 DOMAIN-SUFFIX,fbcdn.net
