@@ -1,0 +1,21 @@
+# Title: Privacy Shield (iOS-NOIR 补缺)
+# Source: arnold117/iOS-NOIR shields/ios_noir_shield.module
+# Update: 2026-11-07
+# 说明：仅收录 AdRules-qx.conf 与 AdvertisingLite.list 两张表都没有的域；已覆盖的域（shuzilm.cn、id6.me、online-metrix.net 等）不在此表，避免重复。
+# 第 1 段埋点/后门无副作用；第 2 段运营商取号网关会使一键登录退回短信验证码（2026-11-07 用户已确认接受）。
+
+# === 1. 埋点 SDK 与热更新后门 ===
+host-suffix,jspatch.com,reject
+host-suffix,umeng.com,reject
+host-suffix,umengcloud.com,reject
+host-suffix,sensorsdata.cn,reject
+host-suffix,admaster.com,reject
+
+# === 2. 运营商蜂窝取号网关 ===
+host-suffix,cmpassport.com,reject
+host-suffix,wostore.cn,reject
+host-suffix,wosms.cn,reject
+host-suffix,hm.wo.cn,reject
+host-suffix,mdn.open.wo.cn,reject
+host-suffix,open.e.189.cn,reject
+host-suffix,id.189.cn,reject
