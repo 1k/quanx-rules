@@ -1,5 +1,5 @@
 # NAME: Ai Rules
-# UPDATED: 2026-09-30
+# UPDATED: 2026-11-26
 
 payload:
 # > Ai general rules
@@ -21,6 +21,11 @@ payload:
   - DOMAIN-SUFFIX,wp.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,stripe.com
+  
+# > Amazon Quick
+  - DOMAIN-SUFFIX,quick.aws.com
+  - DOMAIN-SUFFIX,aws.amazon.com
+  - DOMAIN,d758cqe2bs24d.cloudfront.net
   
 # > Anthropic/Claude
   - DOMAIN,cdn.usefathom.com
